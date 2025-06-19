@@ -1,0 +1,14 @@
+{
+  "name": "telegram-bot-pokizaxon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Pkizaxon",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
